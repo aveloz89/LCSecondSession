@@ -120,7 +120,7 @@ Cuando ejecutes la app y accedas a [http://localhost:8000](http://localhost:8000
 
 ---
 
-## 📦 Nota técnica: ¿Por qué el contenedor ya tiene `pip`?
+## Nota técnica: ¿Por qué el contenedor ya tiene `pip`?
 
 La imagen base usada en este proyecto es `python:3.11-slim`, que forma parte de las imágenes **oficiales de Python en Docker**.  
 Estas imágenes ya incluyen:
